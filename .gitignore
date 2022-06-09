@@ -4,6 +4,8 @@ dist
 *.cpuprofile
 src/.DS_Store
 .env*
+yarn.lock
+.yarnrc*
 coverage
 src/domain/.DS_Store
 .DS_Store
